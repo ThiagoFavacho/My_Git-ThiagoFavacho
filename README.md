@@ -1,21 +1,22 @@
-### Olá! Sou Thiago Favacho 👋
+# 👨‍💻 Olá, sou Thiago Favacho 👋
 
-- 🔭 Trabalho atualmente como promotor de vendas da LG, formado em ADS, mas estudando para transição para área de TI
+Tenho 34 anos, casado, paraense, moro em SP há quase 10 anos. Atualmente trabalho como promotor de vendas na LG, e estou em busca da tão sonhada transição de carreira, pois espero pôr em prática tudo que aprendi na faculdade, onde me formei em Análise e Desenvolvimento de Sistemas, e também com os conhecimentos e técnicas adquiridas nos Bootcamps da DIO.
 - 😄 Pronomes: ele/ dele
+
 <div align="center">
   <a href="https://github.com/thiagofavacho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagofavacho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofavacho&layout=compact&langs_count=7&theme=dark"/>
 </div>
+    
 <div style="display: inline_block"><br>
+  <img align="center" alt="TF-Java" height="120" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="TF-Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="TF-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TF-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="TF-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="TF-Node" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="TF-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img align="center" alt="TF-MySQL" height="120" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-          
-  
+  <img align="center" alt="TF-SQLSEVER" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
 </div>
   
 ##
