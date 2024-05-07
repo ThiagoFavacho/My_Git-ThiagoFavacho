@@ -1,6 +1,6 @@
 ### Olá! Sou Thiago Favacho 👋
 
-- 🔭 Trabalho atualmente como promotor de vendaas da LG, formado em ADS, mas estudando para transição para área de TI
+- 🔭 Trabalho atualmente como promotor de vendas da LG, formado em ADS, mas estudando para transição para área de TI
 - 😄 Pronomes: ele/ dele
 <div align="center">
   <a href="https://github.com/thiagofavacho">
