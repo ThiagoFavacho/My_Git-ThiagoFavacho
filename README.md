@@ -1,7 +1,6 @@
 ### Olá! Sou Thiago Favacho 👋
 
-- 🔭 Trabalho na área de segurança patrimonial, mas estudando para transição para área de TI
-- 🌱 Estudando neste semestre: Técnicas de Programação | Banco de Dados | Análise e Projeto de Sistemas | Engenharia de Software
+- 🔭 Trabalho atualmente como promotor de vendaas da LG, formado em ADS, mas estudando para transição para área de TI
 - 😄 Pronomes: ele/ dele
 <div align="center">
   <a href="https://github.com/thiagofavacho">
